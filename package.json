@@ -9,7 +9,14 @@
     "lint": "eslint --ext .ts --ignore-path .eslintignore .",
     "lint:fix": "eslint --fix --ext .ts --ignore-path .eslintignore ."
   },
+  "keywords": [
+    "msal",
+    "@azure/msal-browser",
+    "typescript",
+    "oauth2"
+  ],
   "dependencies": {
+    "@azure/msal-browser": "^2.0.0-beta.4",
     "axios": "^0.19.2",
     "cors": "^2.8.5",
     "express": "^4.17.1",
