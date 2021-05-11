@@ -3,16 +3,16 @@
 
 
 "@azure/msal-browser@^2.0.0":
-  version "2.0.0-beta.4"
-  resolved "https://registry.yarnpkg.com/@azure/msal-browser/-/msal-browser-2.0.0-beta.4.tgz#d2443e1fd70656fa403d52f34462c41167232052"
-  integrity sha512-5f8j+G6cfMEDUAFR9F6k+YMWr7J2e9HHWCBzztCQcDuWkpw0qOfvYY+grBbhYp0EgLsc++OXSuV+IwHbhXx9YA==
+  version "2.14.1"
+  resolved "https://registry.yarnpkg.com/@azure/msal-browser/-/msal-browser-2.14.1.tgz#6c4f283069e7bedb8cea664f728a2069338fc043"
+  integrity sha512-J2YgonII+/ureLk7jZddup15y5QlR1bj9dLSIcIluwn9l1TdqZXfbwvMeLgd2xmMPIuEKVyRwUkw2QMxZ7lehQ==
   dependencies:
-    "@azure/msal-common" "1.0.0-beta.4"
+    "@azure/msal-common" "^4.2.1"
 
-"@azure/msal-common@1.0.0-beta.4":
-  version "1.0.0-beta.4"
-  resolved "https://registry.yarnpkg.com/@azure/msal-common/-/msal-common-1.0.0-beta.4.tgz#d46b7dd034677391dea55a232bf4e6d3574447e3"
-  integrity sha512-6bUSUmlkyvG2+4bE1bbdg/LaodowgcMDybqB6bUvkr2HvxG9S+WN+zWyuAjTHlmXMM/4Cinl8B/ZqFmWf4DO/g==
+"@azure/msal-common@^4.2.1":
+  version "4.2.1"
+  resolved "https://registry.yarnpkg.com/@azure/msal-common/-/msal-common-4.2.1.tgz#0377c980aeebaaf3c768fef9165159759c9a9176"
+  integrity sha512-f6na0yqY+rUJ54m79TmFbG8BH1nFvlW+ETtYUGdZpJUO+/RgDVnRzkoj5PVQd6y7czKYlrBRetAcZEE+yGh+/g==
   dependencies:
     debug "^4.1.1"
 
@@ -3925,9 +3925,9 @@ lodash.uniq@^4.5.0:
   integrity sha1-0CJTc662Uq3BvILklFM5qEJ1R3M=
 
 lodash@^4.17.15, lodash@^4.17.19, lodash@^4.17.4:
-  version "4.17.19"
-  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.19.tgz#e48ddedbe30b3321783c5b4301fbd353bc1e4a4b"
-  integrity sha512-JNvd8XER9GQX0v2qJgsaN/mzFCNA5BRe/j8JN9d+tWyGLSodKQHKFicdwNYzWwI3wjRnaKPsGj1XkBjx/F96DQ==
+  version "4.17.21"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.21.tgz#679591c564c3bffaae8454cf0b3df370c3d6911c"
+  integrity sha512-v2kDEe57lecTulaDIuNTPy3Ry4gLGJ6Z1O3vE1krgXZNrsQ+LFTGHVxVjcXPs17LhbZVGedAJv8XZ1tvj5FvSg==
 
 log-symbols@^2.2.0:
   version "2.2.0"
