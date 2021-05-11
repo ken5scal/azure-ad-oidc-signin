@@ -3,16 +3,16 @@
 
 
 "@azure/msal-browser@^2.0.0":
-  version "2.0.0-beta.4"
-  resolved "https://registry.yarnpkg.com/@azure/msal-browser/-/msal-browser-2.0.0-beta.4.tgz#d2443e1fd70656fa403d52f34462c41167232052"
-  integrity sha512-5f8j+G6cfMEDUAFR9F6k+YMWr7J2e9HHWCBzztCQcDuWkpw0qOfvYY+grBbhYp0EgLsc++OXSuV+IwHbhXx9YA==
+  version "2.14.1"
+  resolved "https://registry.yarnpkg.com/@azure/msal-browser/-/msal-browser-2.14.1.tgz#6c4f283069e7bedb8cea664f728a2069338fc043"
+  integrity sha512-J2YgonII+/ureLk7jZddup15y5QlR1bj9dLSIcIluwn9l1TdqZXfbwvMeLgd2xmMPIuEKVyRwUkw2QMxZ7lehQ==
   dependencies:
-    "@azure/msal-common" "1.0.0-beta.4"
+    "@azure/msal-common" "^4.2.1"
 
-"@azure/msal-common@1.0.0-beta.4":
-  version "1.0.0-beta.4"
-  resolved "https://registry.yarnpkg.com/@azure/msal-common/-/msal-common-1.0.0-beta.4.tgz#d46b7dd034677391dea55a232bf4e6d3574447e3"
-  integrity sha512-6bUSUmlkyvG2+4bE1bbdg/LaodowgcMDybqB6bUvkr2HvxG9S+WN+zWyuAjTHlmXMM/4Cinl8B/ZqFmWf4DO/g==
+"@azure/msal-common@^4.2.1":
+  version "4.2.1"
+  resolved "https://registry.yarnpkg.com/@azure/msal-common/-/msal-common-4.2.1.tgz#0377c980aeebaaf3c768fef9165159759c9a9176"
+  integrity sha512-f6na0yqY+rUJ54m79TmFbG8BH1nFvlW+ETtYUGdZpJUO+/RgDVnRzkoj5PVQd6y7czKYlrBRetAcZEE+yGh+/g==
   dependencies:
     debug "^4.1.1"
 
@@ -3234,9 +3234,9 @@ hmac-drbg@^1.0.0:
     minimalistic-crypto-utils "^1.0.1"
 
 hosted-git-info@^2.1.4:
-  version "2.8.8"
-  resolved "https://registry.yarnpkg.com/hosted-git-info/-/hosted-git-info-2.8.8.tgz#7539bd4bc1e0e0a895815a2e0262420b12858488"
-  integrity sha512-f/wzC2QaWBs7t9IYqB4T3sR1xviIViXJRJTWBlx2Gf3g0Xi5vI7Yy4koXQ1c9OYDGHN9sBy1DQ2AB8fqZBWhUg==
+  version "2.8.9"
+  resolved "https://registry.yarnpkg.com/hosted-git-info/-/hosted-git-info-2.8.9.tgz#dffc0bf9a21c02209090f2aa69429e1414daf3f9"
+  integrity sha512-mxIDAb9Lsm6DoOJ7xH+5+X4y1LU/4Hi50L9C5sIswK3JzULS4bwk1FvjdBgvYR4bzT4tuUQiC15FE2f5HbLvYw==
 
 hsl-regex@^1.0.0:
   version "1.0.0"
