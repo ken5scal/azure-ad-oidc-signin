@@ -19,7 +19,7 @@
   "dependencies": {
     "@azure/msal-browser": "^2.0.0",
     "axios": "^0.19.2",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "nodemon": "^2.0.4",
     "typescript": "^3.9.5"
   },
